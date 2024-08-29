@@ -1,8 +1,14 @@
+//Riley Tipton
+// CS1410 Starter
+
 #include <iostream>
+using namespace std;
+
+
 
 int main(){
-    // TODO
-    std::cout << "Hello World!" << std::endl;
+
+    cout << "Hello Riley!" << endl;
     
     return 0;
 }
